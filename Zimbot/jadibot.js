@@ -1,5 +1,5 @@
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮ZHX BOT INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
@@ -32,7 +32,7 @@ exports.jadibot = async (conn, m) => {
         logger: pino({ level: 'silent' }),
         printQRInTerminal: false,
         auth: state,
-		browser: ['ZIM BOT JADI']
+		browser: ['ZHX BOT V4']
 })
 
 ZimBotInc.ev.on('connection.update', async (update) => {
